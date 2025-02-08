@@ -1,0 +1,11 @@
+{
+    "version": "0.2.0",
+    "notes": "Test Version",
+    "pub_date": "2025-02-08T15:05:27Z",
+    "platforms": {
+      "windows-x86_64": {
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRDE0bjJFRlRUUkg2UVRsM0xmcDVSU1RlaDFlV1RDbkFMblYwUkNUdE5HT0tvenJWL2ZZYjdYZFpXbmNITXRLQ3kwOU5Wam1wSDFrY0xqSllUNXZoTXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4OTk4MjMxCWZpbGU6eXVhbmJhb18wLjIuMF94NjQtc2V0dXAuZXhlCjNHSVdseTZYOGMzcmtzMnhEay9acjNqdVVPdzUxS0YvVUdLWlNTTWJIVFVaaFU0c3R3OENrMmlCZGlONVdydXhnRjJ1QjZTTUFPVzJiT1RZY2lyeERBPT0K",
+        "url": "https://github.com/buaaljq/static-json/blob/master/yuanbao_0.2.0_x64-setup.exe"
+      }
+    }
+  }
