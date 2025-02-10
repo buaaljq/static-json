@@ -1,11 +1,11 @@
 {
-    "version": "0.2.0",
+    "version": "1.0.48",
     "notes": "Test Version",
     "pub_date": "2025-02-08T15:05:27Z",
     "platforms": {
       "windows-x86_64": {
-        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRHczZTVaOGp5b1hYUzJIZmRqSkE4NnozK3l3bjBZQUl4cWtlRTFRdkFOdWtIQzNWSnU1RUdqOU5pem02RVp5Ri9Sb3R2WWhHVlh1Y2Iya3FyeU0reHdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM4OTk5MzIyCWZpbGU6eXVhbmJhb18wLjIuMF94NjQtc2V0dXAuZXhlClJiTk9GZk9udUdrcmZpTXNrNnJHVkFEc0NmSmxWRXpEdEdzakZQUUI1WFFnekhBVmlFNm53UWtZdnhEbTd3SlR1ZER1Z29DbmF0VFdKNFJzRXpsbEFnPT0K",
-        "url": "https://buaaljq.github.io/static-json/yuanbao_0.2.0_x64-setup.exe"
+        "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRHhiNWZVVFFsTDU0N2pqVGdvQUFibG4rZ0NDUEhvWFBqbkxXcTk4WDJ6amp0MmJGZkhtTGNYNnc2c0w1R1NOSldSeXdxeHBEeU1kTmd6R2ZRc3hEbVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MTg4MTcxCWZpbGU6eXVhbmJhb18xLjAuNDhfeDY0LXNldHVwLmV4ZQp3NytwVmZoNUVBbWo2MVB1WVJFaEZPK21Od3JPYWwxK3VuSFpBdEp0dGlNODlpeDI1cXh1RmZqM001bVhFVXp1Y1VoNlBTcWZ0eGg0ZWNwRkJlSEVDQT09Cg==",
+        "url": "https://buaaljq.github.io/static-json/yuanbao_1.0.48_x64-setup.exe"
       }
     }
   }
