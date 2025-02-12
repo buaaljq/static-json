@@ -3,10 +3,6 @@
   "notes": "Test Version",
   "pub_date": "2025-02-08T15:05:27Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRDR5cXMyWTRqaitiTUUwQWsxZWJvWUF3Zi9ObzRLVFIxMWUzbHo4MURER01mdjFQQmVXMXU3SmFGM0YxVG9YNWhhZkE5NitNRkl6UkpLSWcrR1VrYVFJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MTkzMDMyCWZpbGU6eXVhbmJhb18xLjAuNDhfeDY0LXNldHVwLmV4ZQpNQnpzSkVsNE5NaVdMTHhHMFJuNkJudy9aTXVEdSs3a0huelBDcGJGWlZldmd1dENXNWl6djVrOW4vN2hoMmNGZHh0RDFwc1RKaisyS0dteTZWa3dEUT09Cg==",
-      "url": "https://buaaljq.github.io/static-json/yuanbao_1.0.48_x64-setup.exe"
-    },
     "darwin-x86_64": {
       "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRCtWRlpQSU94bnNiTE9BcWFjbzc3dG5OaStPZjg5Z2paT1paWFVCSUlpbnJHYmI1Qm95Wml6cjlNWUVJazY4enF0NnJHSGN4dUZtRzNlYzFTdENyT0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5Mjc2MjE3CWZpbGU6eXVhbmJhby5hcHAudGFyLmd6CldyalJCQkFHUWxobm9FOVh0dzJCL2pzT0ZWOTZrOXJFaUVKcXVxTTRZNG1tbHc5K2VXeVcvajVGcWtJUHlXdVR0V3NzNjgyMWRPdzloZGNzWmxoSUFRPT0K",
       "url": "https://buaaljq.github.io/static-json/yuanbao.app.tar.gz"
