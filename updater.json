@@ -1,16 +1,12 @@
 {
-  "version": "0.0.0",
+  "version": "1.0.42",
   "notes": "Test Version",
   "pub_date": "2025-02-08T15:05:27Z",
   "other_param": "",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRCtab2FuT1RWMEhBc0JGSGpjRWtKS0VWWTRSejVNb0IrVEkyNUljaVJYSDh6bUkycDlmSDBWUkNHRUlncGVPWEY1cTM3akoyRlJscnR0dVZhWm00eWdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5MzcxNTM1CWZpbGU6c3ljZWVfMS4wLjMyX3g2NC1zZXR1cC5leGUKSm5od0FYem1QdW95U0JXVW5pZm9UWFovUlIyaHBPNVg1Y1pVUkF0NmNKQkxBSVVoVyt2YlVaSW02dTJ6Z3NJZ01hdkNwTVlHQnZ1TE1WSWgxT2lkQlE9PQo=",
-      "url": "https://buaaljq.github.io/static-json/sycee_1.0.32_x64-setup.exe"
-    },
-    "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRDJzb1dQcUpkRW9iallwVEFhVjNXVlZxcXJQUGhuZ1ZuMUIzMFR2TzF5QjJ2bHhZbXpSLzM4WmtVMDZrYVcwNjlMclcxZzM4V2dhKy9FOUg3ZndTclFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NDE3MDU3CWZpbGU6c3ljZWUuYXBwLnRhci5negpYRUticEJrSDRTbStuczZiZUl6TG5xVncwQjNwbmZaMlRTdDM2TFdGTzFIUkFLY3pqR3YzTDIvampERGRxdG9UK29BYllDZlIyS2lTOW9SZ1FhUVlEZz09Cg==",
-      "url": "https://buaaljq.github.io/static-json/sycee.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSWURyRTFadmtlRDlmWmIrOWVyVUh5OFZ5emZEZzUwUW1xU1pjZU5HZExhcDIvZktxRmtpYlptWUxNWG9la1FSYnZDZkh5Q2luZzAxdTlqcWZWTGlUSFZrQnNtZ2QrendJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzM5NTA4NzIxCWZpbGU6c3ljZWVfMS4wLjQyX3g2NC1zZXR1cC5leGUKbnZPS0ZmZ3lWN3pEN3RrNXVMQktRQmFNTGRhbVVzUXNvVktSSy9BTVIrUW94ell3SVRISzc4WVk0eVBuL2Y4S29OU0dSejd0QWhEaVdxMFpWQkZ3Q3c9PQo=",
+      "url": "https://buaaljq.github.io/static-json/sycee_1.0.42_x64-setup.exe"
     }
   }
 }
